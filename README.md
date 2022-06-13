@@ -4,11 +4,12 @@
 
 ## 程序介绍
 
-这是2022年春季复旦大学面向对象程序设计课程大作业
+这是2022年春季安徽工程大学数据结构课程设计作业
 
 基于SFML图形库的贪吃蛇小游戏
 
 原版代码作者 [jhpy1024](https://github.com/jhpy1024/sfSnake)
+修改版代码作者  [JingYiJun](https://github.com/JingYiJun/sfSnake)
 
 [查看修改日志](doc/ChangeLog.md)
 
@@ -25,7 +26,8 @@
 
 ## 特点
 
-相比原版和大部分走直线的贪吃蛇，界面直白简单，动画丝滑流畅，操作易上手
+本版本在精益君修改版基础上进一步进行了修改
+精益君版本相比原版和大部分走直线的贪吃蛇，界面直白简单，动画丝滑流畅，操作易上手
 
 ## 操作
 
@@ -39,15 +41,6 @@
 
 ## 截图
 
-![MenuScreenShot](doc/image/MenuScreenShot.png "游戏彩蛋截图")
-
-![GameScreenShot](doc/image/GameScreenShot.png "游戏主界面截图")
-
-![OptionScreenShot](doc/image/OptionScreenShot.png)
-
-## 下载
-
-Release下载之后解压就可以了
 
 ## license
 
